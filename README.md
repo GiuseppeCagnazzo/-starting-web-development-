@@ -1,4 +1,4 @@
 # -starting-web-development-
 Html - CSS Opdracht 8
 
-https://github.com/GiuseppeCagnazzo/Starting-Web-Development/blob/master/
+https://giuseppecagnazzo.github.io/Starting-Web-Development/
